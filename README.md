@@ -1,2 +1,5 @@
-# Manifold_Learning
-Concepts in Manifold Learning and Spectral Clustering Techniques
+# Manifold Learning
+
+### Concepts in Manifold Learning and Spectral Clustering Techniques
+
+---
